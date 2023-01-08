@@ -1,0 +1,19 @@
+*.class
+# Eclipse
+.project
+.classpath
+.settings/
+*.ipr
+*.iml
+*.iws
+.idea/
+target/
+.DS_Store
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.pid
+*.orig
+temp/
